@@ -292,11 +292,6 @@ Quadro, controles de sala e arquivos compartilhados são dados de sessão, não 
 
 ## Licença
 
-Uma licença de distribuição para o código do projeto ainda não foi definida. As dependências mantêm suas respectivas licenças; os pacotes incluem os avisos em `THIRD_PARTY_NOTICES.txt`.
+O Mazestream é distribuído sob a [Licença MIT](LICENSE).
 
----
-
-<p align="center">
-  <strong>Mazestream</strong><br>
-  <sub>Transmissão e colaboração para pequenos grupos.</sub>
-</p>
+As dependências e componentes de terceiros permanecem sujeitos às respectivas licenças. Os avisos correspondentes são incluídos nos pacotes de distribuição.
